@@ -1,5 +1,5 @@
 {
-  "/api/authentication/login":[
+  "login":[
     {
       "id": 1,
       "username":"a",
