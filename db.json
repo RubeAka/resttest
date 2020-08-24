@@ -1,7 +1,11 @@
 {
-  "/api/authentication/login":{
-    "name":"ok"
-  },
+  "/api/authentication/login":[
+    {
+      "id": 1,
+      "username":"a",
+      "password":"ppp"
+    }
+  ],
   "posts": [
     {
       "id": 1,
